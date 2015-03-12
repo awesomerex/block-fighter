@@ -1,7 +1,7 @@
 {
-  "name": "PunchOrDie",
+  "name": "block-fighter",
   "version": "0.0.0",
-  "description": "Punch Enemies, Don't die",
+  "description": "Beat em up",
   "main": "index.js",
   "private": true,
   "dependencies": {
